@@ -3,3 +3,22 @@ What happens when you initialize a repository? Why do you need to do it?
 	When you initialize a repo a .git hidden file is created. We need to this to
 	create a repository.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	the staging area shows files to be commited. it is so one can easily 
+	reset the commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	At the staging area using diff command you can view the logical change and
+	sure you want to make that change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When we want to make a new version but stil keep original file. like creating
+	an experimental feature or changing the language of the original file.
+
+How do the diagrams help you visualize the branch structure?
+
+	They help by making it easier to comprehend where and when a bracnch was 
+	created.
